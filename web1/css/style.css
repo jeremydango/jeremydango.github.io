@@ -1,0 +1,73 @@
+﻿@charset "UTF-8";
+
+
+/* ページ */
+
+/* コンテンツ全体のブロック */
+body {
+ background-image: url(../images/back.png);
+ }
+
+div {
+ text-align: center;
+ width: 720px;
+ margin: auto;
+ background-color: #f6b966;
+  }
+/* 見出し */
+h1 {
+ text-align: center;
+ margin: -5px 0px 0px 0px;
+ }
+h2 {
+ text-align: center;
+ margin: -15px 0px 0px 0px;
+ }
+h3 {
+ color: #ff6b2e;
+ font-size: 26px;
+ text-align: center;
+ margin: -15px 0px 0px 0px;
+ 
+ }
+/* 段落 */
+p {
+ text-align: left; 
+ font-size: 14px;
+ margin: 20px 60px 20px 60px;
+ }
+
+/* テーブル（表） */
+table {
+ border: 0px #f6b966;
+ margin: 20px 50px 20px 50px;
+ }
+th {
+ border: 0px #f6b966;
+ }
+td {
+ text-align: left;
+ border: 0px #f6b966;
+ font-size: 14px;
+ }
+/* リスト */
+ul {
+ text-align: left;
+ color: #ff6b2e;
+ }
+/* 仕切り線 */
+hr {
+ color: #f6b966;
+ }
+/* 画像 */
+
+/* アンカー（リンクテキスト） */
+
+/* クラス */
+p.linkButton {
+ text-align: center;
+ }
+
+p.flash {
+ text-align: center;
+ }
